@@ -3,4 +3,8 @@ Changing Alice.
 Changing Alice again.
 Changing Alice again.
 Online edit of allice.
+<<<<<<< HEAD
 Online edit of alice number 2.
+=======
+Local Alice change.
+>>>>>>> Changed Alice
